@@ -1,95 +1,104 @@
-# Murilo Gaspar de Moura
-ACPS - Portifólio
+## Murilo Gaspar de Moura
 
-📅 2024
-08/04 – Itix (Presencial)
-👤 Eduardo Von
-🎤 Criatividade e Inovação: um desafio constante
 
-27/07 – UNO (Presencial)
-👤 André Lopes & Tamiris Marciano
-🎤 Fluxo de Operações
+#  ACP – Portifólio
 
-28/07 – Eduzz (Presencial)
-👤 Vinícius & Michele
-🎤 Você é uma pessoa organizada?
 
-31/07 – Eduzz (Presencial)
-👤 Luiz Milagres
-🎤 Hacker do bem e a segurança digital no dia a dia
+---
 
-05/05 – Tegra (Online)
-👤 Guilherme Bastos
-🎤 As possibilidades da IA no mercado de trabalho
+## 📅 2024
 
-07/05 – (Online)
-🎤 Liderança e Gestão 3.0
+- **08/04 – Itix (Presencial)**  
+  👤 *Eduardo Von*  
+  🎤 **Criatividade e Inovação: um desafio constante**
 
-05/09 – Tegra (Online)
-👤 Guilherme Bastos
-🎤 Quais as tendências da área de TI com a virada da IA Generativa e outras tecnologias
+- **27/07 – UNO (Presencial)**  
+  👤 *André Lopes & Tamiris Marciano*  
+  🎤 **Fluxo de Operações**
 
-12/09 – UNO (Presencial)
-👤 Liliane Pereira
-🎤 Soft Skills
+- **28/07 – Eduzz (Presencial)**  
+  👤 *Vinícius & Michele*  
+  🎤 **Você é uma pessoa organizada?**
 
-19/09 – UNO (Presencial)
-👤 Liliane Pereira
-🎤 Ingressando no mercado de Trabalho: autoconhecimento e Marca Pessoal
+- **31/07 – Eduzz (Presencial)**  
+  👤 *Luiz Milagres*  
+  🎤 **Hacker do bem e a segurança digital no dia a dia**
 
-24/09 – Eduzz (Presencial)
-👤 Luiz Milagres
-🎤 Capricho: skill cada vez mais rara
+- **05/05 – Tegra (Online)**  
+  👤 *Guilherme Bastos*  
+  🎤 **As possibilidades da IA no mercado de trabalho**
 
-09/10 – Tegra (Online)
-👤 Guilherme Bastos
-🎤 Desenvolvimento Low Code
+- **07/05 – (Online)**  
+  🎤 **Liderança e Gestão 3.0**
 
-– ITIX (Presencial)**
-👤 Estagiários ITIX
-🎤 Encontro com estagiários da ITIX
+- **05/09 – Tegra (Online)**  
+  👤 *Guilherme Bastos*  
+  🎤 **Quais as tendências da área de TI com a virada da IA Generativa e outras tecnologias**
 
-17/10 – (Presencial)
-👤 Flávia Freitas
-🎤 Preparando-se para o amanhã: da Etec/Fatec para o mundo
+- **12/09 – UNO (Presencial)**  
+  👤 *Liliane Pereira*  
+  🎤 **Soft Skills**
 
-05/11 – (Online)
-👤 Caio Mattos
-🎤 A revolução da Web3 e propriedade digital
+- **19/09 – UNO (Presencial)**  
+  👤 *Liliane Pereira*  
+  🎤 **Ingressando no mercado de Trabalho: autoconhecimento e Marca Pessoal**
 
-📅 2025
-10/04 – Eduzz (Online)
-👤 Tiago Baldo
-🎤 Desafios do primeiro emprego em TI e como superá-los
+- **24/09 – Eduzz (Presencial)**  
+  👤 *Luiz Milagres*  
+  🎤 **Capricho: skill cada vez mais rara**
 
-16/04 – ITIX (Presencial)
-👤 Matheus Dias – Troca de carreira/início de carreira (30 min)
-👤 Tamires – Estagiário buscando efetivação (30 min)
-👤 Matheus Jorge – Utilizando IA no dia a dia do trabalho (30 min)
-👤 Raissa – Gestão de Suporte (1h)
-🎤 Bate-papo Tech ITIX – Carreira e Suporte na Prática + dinâmica e sorteio
+- **09/10 – Tegra (Online)**  
+  👤 *Guilherme Bastos*  
+  🎤 **Desenvolvimento Low Code**
 
-23/04 – Eduzz (Online)
-👤 Priscila
-🎤 LinkedIn e Marca Pessoal para Profissionais de TI
-🎯 Objetivo: Construir um perfil forte no LinkedIn, networking e estratégias para se destacar na área.
+-  – ITIX (Presencial)**  
+  👤 *Estagiários ITIX*  
+  🎤 **Encontro com estagiários da ITIX**
 
-12/05 – (Online)
-👤 Professor Dilenardo Piva Júnior
-🎤 Inteligência Artificial
+- **17/10 – (Presencial)**  
+  👤 *Flávia Freitas*  
+  🎤 **Preparando-se para o amanhã: da Etec/Fatec para o mundo**
 
-13/05 – Eduzz (Online)
-👤 Luciana Ogusco
-🎤 Empreendedorismo e Inovação na Tecnologia
+- **05/11 – (Online)**  
+  👤 *Caio Mattos*  
+  🎤 **A revolução da Web3 e propriedade digital**
 
-20/08 – Eduzz (Online)
-👤 Representante Eduzz
-🎤 Produtividade e Organização no Dia a Dia
+---
 
-27/08 – ITIX (Presencial)
-👤 Andrea Maria Fieri, Raissa Brito Miranda & Rafael Santos
-🎤 Treinamento de Banco de Dados
+## 📅 2025
 
-03/09 – Eduzz (Online)
-👤 Guilherme Rodrigues Mattos
-🎤 Segurança de informação e Cibersegurança
+- **10/04 – Eduzz (Online)**  
+  👤 *Tiago Baldo*  
+  🎤 **Desafios do primeiro emprego em TI e como superá-los**
+
+- **16/04 – ITIX (Presencial)**  
+  👤 *Matheus Dias* – *Troca de carreira/início de carreira (30 min)*  
+  👤 *Tamires* – *Estagiário buscando efetivação (30 min)*  
+  👤 *Matheus Jorge* – *Utilizando IA no dia a dia do trabalho (30 min)*  
+  👤 *Raissa* – *Gestão de Suporte (1h)*  
+  🎤 **Bate-papo Tech ITIX – Carreira e Suporte na Prática** + dinâmica e sorteio  
+
+- **23/04 – Eduzz (Online)**  
+  👤 *Priscila*  
+  🎤 **LinkedIn e Marca Pessoal para Profissionais de TI**  
+  🎯 *Objetivo: Construir um perfil forte no LinkedIn, networking e estratégias para se destacar na área.*
+
+- **12/05 – (Online)**  
+  👤 *Professor Dilenardo Piva Júnior*  
+  🎤 **Inteligência Artificial**
+
+- **13/05 – Eduzz (Online)**  
+  👤 *Luciana Ogusco*  
+  🎤 **Empreendedorismo e Inovação na Tecnologia**
+
+- **20/08 – Eduzz (Online)**  
+  👤 *Representante Eduzz*  
+  🎤 **Produtividade e Organização no Dia a Dia**
+
+- **27/08 – ITIX (Presencial)**  
+  👤 *Andrea Maria Fieri, Raissa Brito Miranda & Rafael Santos*  
+  🎤 **Treinamento de Banco de Dados**
+
+- **03/09 – Eduzz (Online)**  
+  👤 *Guilherme Rodrigues Mattos*  
+  🎤 **Segurança de informação e Cibersegurança**
